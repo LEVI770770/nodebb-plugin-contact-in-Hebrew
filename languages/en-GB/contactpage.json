@@ -1,0 +1,17 @@
+{
+    "contact": "Contact",
+    "form.email": "מייל",
+    "form.name": "שם",
+    "form.subject": "נושא ההודעה",
+    "form.message": "הודעה",
+    "form.captcha": "אימות",
+    "btn.send": "שלח פנייה",
+    "contact-error": "Failed to contact",
+    "invalid.email": "Invalid email",
+    "error.mail": "Server failed to send mail. Please try later",
+    "error.incomplete": "Please fill all fields",
+    "error.incomplete.recaptcha": "Please fill the captcha!",
+    "error.invalid.recaptcha": "Captcha is invalid!",
+    "send.success": "Your message has been sent. We will respond quickly.",
+    "email.header": "%1 sent the following message:"
+}
